@@ -1,2 +1,4 @@
 1. GitHub repository created
 2. Folder/File structure created incl. normnalize.css and sass setup
+3. Created/switched to index.php branch
+4. index.php - added Head info and links to font awesome, bootstrap, normalize link removed and replaced with bootstrap, favicon added 
