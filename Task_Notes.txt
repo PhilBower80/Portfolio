@@ -1,0 +1,2 @@
+1. GitHub repository created
+2. Folder/File structure created incl. normnalize.css and sass setup
